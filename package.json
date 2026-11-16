@@ -1,0 +1,14 @@
+{
+  "name": "nova-shop",
+  "version": "1.0.0",
+  "private": true,
+  "description": "NOVA 商城 · 全栈电商购物平台（用户端 + 管理后台）",
+  "type": "module",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "node --watch server/index.js"
+  },
+  "engines": {
+    "node": ">=22.5"
+  }
+}
